@@ -1,5 +1,4 @@
-<img src="intro.gif" width="40" height="40" />
-
+<p align="center"><img width=100% src="intro.gif"></p>
 <!--
 **shloksethia-6119/shloksethia-6119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
